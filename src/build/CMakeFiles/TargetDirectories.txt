@@ -1,3 +1,0 @@
-D:/source/static_dll_inject/src/build/CMakeFiles/static_dll_inject.dir
-D:/source/static_dll_inject/src/build/CMakeFiles/ALL_BUILD.dir
-D:/source/static_dll_inject/src/build/CMakeFiles/ZERO_CHECK.dir
